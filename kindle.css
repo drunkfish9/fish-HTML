@@ -30,6 +30,9 @@
 
 
 
+
+
+
 @media(max-width: 767px) {
   .navigation-links-nav {
     align-items: flex-start;
@@ -146,16 +149,19 @@
   height: 36px;
   margin-left: 0px;
   margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
 }
 .kindle-icon06 {
   width: 36px;
   height: 36px;
   margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
 }
 .kindle-icon08 {
   width: 36px;
   height: 36px;
   margin-right: 0px;
+  text-decoration: none;
 }
 .kindle-container0 {
   width: 100%;
@@ -226,7 +232,7 @@
   padding-top: var(--dl-space-space-twounits);
   flex-direction: column;
 }
-.kindle-text18 {
+.kindle-text12 {
   color: rgb(71, 71, 71);
   height: auto;
   font-size: 20px;
@@ -262,7 +268,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.kindle-text19 {
+.kindle-text13 {
   color: rgb(71, 71, 71);
   height: auto;
   font-size: 20px;
@@ -284,7 +290,7 @@
   border-color: transparent;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.kindle-text20 {
+.kindle-text14 {
   color: rgb(74, 74, 74);
   width: 1200px;
   height: auto;
@@ -307,35 +313,6 @@
   height: auto;
   object-fit: cover;
 }
-.kindle-text21 {
-  color: rgb(74, 74, 74);
-  width: 1200px;
-  height: auto;
-  font-size: 16px;
-  align-self: auto;
-  font-style: Regular;
-  text-align: left;
-  font-family: Arial;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  margin-right: 0;
-  padding-left: 0px;
-  margin-bottom: 0;
-  padding-right: 0px;
-  text-decoration: none;
-}
-.kindle-text23 {
-  color: #4e5fbc;
-}
-.kindle-link1 {
-  color: #4e5fbc;
-}
-.kindle-image03 {
-  width: auto;
-  height: auto;
-  object-fit: cover;
-}
 .kindle-container4 {
   width: 100%;
   height: 100%;
@@ -345,7 +322,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.kindle-text26 {
+.kindle-text15 {
   color: rgb(71, 71, 71);
   height: auto;
   font-size: 20px;
@@ -367,31 +344,12 @@
   border-color: transparent;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.kindle-text27 {
-  color: rgb(74, 74, 74);
-  width: 1200px;
-  height: auto;
-  font-size: 16px;
-  align-self: auto;
-  font-style: Regular;
-  text-align: left;
-  font-family: Arial;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  margin-right: 0;
-  padding-left: 0px;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
-  padding-right: 0px;
-  text-decoration: none;
-}
-.kindle-image04 {
+.kindle-image03 {
   width: auto;
   height: auto;
   object-fit: cover;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.kindle-container5 {
+.kindle-container6 {
   width: 100%;
   height: 100%;
   display: flex;
@@ -400,7 +358,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.kindle-text28 {
+.kindle-text16 {
   color: rgb(71, 71, 71);
   height: auto;
   font-size: 20px;
@@ -422,13 +380,13 @@
   border-color: transparent;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.kindle-image05 {
+.kindle-image04 {
   width: auto;
   height: auto;
   object-fit: cover;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.kindle-container6 {
+.kindle-container5 {
   width: 100%;
   height: 100%;
   display: flex;
@@ -437,7 +395,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.kindle-text29 {
+.kindle-text17 {
   color: rgb(71, 71, 71);
   height: auto;
   font-size: 20px;
@@ -459,13 +417,13 @@
   border-color: transparent;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.kindle-image06 {
+.kindle-image05 {
   width: auto;
   height: auto;
   object-fit: cover;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.kindle-container7 {
+.kindle-container51 {
   width: 100%;
   height: 100%;
   display: flex;
@@ -474,7 +432,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.kindle-text30 {
+.kindle-text18 {
   color: rgb(71, 71, 71);
   height: auto;
   font-size: 20px;
@@ -496,31 +454,13 @@
   border-color: transparent;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.kindle-text31 {
-  color: rgb(74, 74, 74);
-  width: 1200px;
-  height: auto;
-  font-size: 16px;
-  align-self: auto;
-  font-style: Regular;
-  text-align: left;
-  font-family: Arial;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  margin-right: 0;
-  padding-left: 0px;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
-  padding-right: 0px;
-  text-decoration: none;
-}
-.kindle-image07 {
+.kindle-image06 {
   width: auto;
   height: auto;
   object-fit: cover;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  margin-bottom: HalfUnits;
 }
-.kindle-container8 {
+.kindle-container7 {
   width: 100%;
   height: 100%;
   display: flex;
@@ -529,7 +469,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.kindle-text32 {
+.kindle-text19 {
   color: rgb(71, 71, 71);
   height: auto;
   font-size: 20px;
@@ -551,13 +491,13 @@
   border-color: transparent;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.kindle-image08 {
+.kindle-image07 {
   width: auto;
   height: auto;
   object-fit: cover;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.kindle-container9 {
+.kindle-container8 {
   width: 100%;
   height: 100%;
   display: flex;
@@ -566,7 +506,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.kindle-text33 {
+.kindle-text20 {
   color: rgb(71, 71, 71);
   height: auto;
   font-size: 20px;
@@ -588,13 +528,12 @@
   border-color: transparent;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.kindle-image09 {
+.kindle-image08 {
   width: auto;
   height: auto;
   object-fit: cover;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.kindle-container10 {
+.kindle-container9 {
   width: 100%;
   height: 100%;
   display: flex;
@@ -603,7 +542,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.kindle-text34 {
+.kindle-text21 {
   color: rgb(71, 71, 71);
   height: auto;
   font-size: 20px;
@@ -625,13 +564,13 @@
   border-color: transparent;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.kindle-image10 {
+.kindle-image09 {
   width: auto;
   height: auto;
   object-fit: cover;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.kindle-image11 {
+.kindle-image10 {
   width: auto;
   height: auto;
   object-fit: cover;
@@ -646,7 +585,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.kindle-text35 {
+.kindle-text22 {
   color: rgb(71, 71, 71);
   height: auto;
   font-size: 20px;
@@ -668,13 +607,12 @@
   border-color: transparent;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.kindle-image12 {
+.kindle-image11 {
   width: auto;
   height: auto;
   object-fit: cover;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.kindle-container12 {
+.kindle-container13 {
   width: 100%;
   height: 100%;
   display: flex;
@@ -683,7 +621,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.kindle-text36 {
+.kindle-text23 {
   color: rgb(71, 71, 71);
   height: auto;
   font-size: 20px;
@@ -705,31 +643,23 @@
   border-color: transparent;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.kindle-text37 {
-  color: rgb(74, 74, 74);
-  width: 1200px;
+.kindle-image12 {
+  width: auto;
   height: auto;
-  font-size: 16px;
-  align-self: auto;
-  font-style: Regular;
-  text-align: left;
-  font-family: Arial;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  margin-right: 0;
-  padding-left: 0px;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
-  padding-right: 0px;
-  text-decoration: none;
+  object-fit: cover;
 }
 .kindle-image13 {
   width: auto;
   height: auto;
   object-fit: cover;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.kindle-container13 {
+.kindle-image14 {
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  margin-bottom: OneAndHalfUnits;
+}
+.kindle-container14 {
   width: 100%;
   height: 100%;
   display: flex;
@@ -738,7 +668,7 @@
   margin-bottom: 0px;
   flex-direction: column;
 }
-.kindle-text38 {
+.kindle-text24 {
   color: rgb(71, 71, 71);
   height: auto;
   font-size: 20px;
@@ -760,110 +690,57 @@
   border-color: transparent;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.kindle-image14 {
-  width: auto;
+.kindle-text25 {
+  color: rgb(74, 74, 74);
+  width: 1200px;
   height: auto;
-  object-fit: cover;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arial;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  padding-left: 0px;
+  margin-bottom: var(--dl-space-space-unit);
+  padding-right: 0px;
+  text-decoration: none;
+}
+.kindle-text26 {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.kindle-text33 {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.kindle-text40 {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.kindle-text41 {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.kindle-container15 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  margin-top: var(--dl-space-space-unit);
+  align-items: center;
+  flex-direction: column;
 }
 .kindle-image15 {
   width: auto;
   height: auto;
   object-fit: cover;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
-}
-.kindle-text39 {
-  color: rgb(74, 74, 74);
-  width: 1200px;
-  height: auto;
-  font-size: 16px;
-  align-self: auto;
-  font-style: Regular;
-  text-align: left;
-  font-family: Arial;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  margin-right: 0;
-  padding-left: 0px;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
-  padding-right: 0px;
   text-decoration: none;
-}
-.kindle-image16 {
-  width: auto;
-  height: auto;
-  object-fit: cover;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
-}
-.kindle-container14 {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  padding-top: var(--dl-space-space-twounits);
-  margin-bottom: 0px;
-  flex-direction: column;
-}
-.kindle-text40 {
-  color: rgb(71, 71, 71);
-  height: auto;
-  font-size: 20px;
-  align-self: auto;
-  font-style: Semibold;
-  text-align: center;
-  font-family: Arial;
-  font-weight: 600;
-  line-height: normal;
-  font-stretch: normal;
-  margin-right: 0;
-  margin-bottom: var(--dl-space-space-halfunit);
-  text-decoration: none;
-}
-.kindle-rectangle2513 {
-  width: 29px;
-  height: 6px;
-  position: relative;
-  border-color: transparent;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.kindle-text41 {
-  color: rgb(74, 74, 74);
-  width: 1200px;
-  height: auto;
-  font-size: 16px;
-  align-self: auto;
-  font-style: Regular;
-  text-align: left;
-  font-family: Arial;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  margin-right: 0;
-  padding-left: 0px;
-  margin-bottom: var(--dl-space-space-sixunits);
-  padding-right: 0px;
-  text-decoration: none;
-}
-.kindle-text42 {
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-}
-.kindle-text49 {
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-}
-.kindle-text58 {
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-}
-.kindle-text59 {
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
 }
 @media(max-width: 991px) {
   .kindle-image {
@@ -878,7 +755,7 @@
   .kindle-image01 {
     width: 100%;
   }
-  .kindle-text20 {
+  .kindle-text14 {
     width: 900px;
     margin-left: 0px;
     padding-left: var(--dl-space-space-unit);
@@ -887,20 +764,8 @@
   .kindle-image02 {
     width: 100%;
   }
-  .kindle-text21 {
-    width: 900px;
-    margin-left: 0px;
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
-  }
   .kindle-image03 {
     width: 100%;
-  }
-  .kindle-text27 {
-    width: 900px;
-    margin-left: 0px;
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
   }
   .kindle-image04 {
     width: 100%;
@@ -910,12 +775,6 @@
   }
   .kindle-image06 {
     width: 100%;
-  }
-  .kindle-text31 {
-    width: 900px;
-    margin-left: 0px;
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
   }
   .kindle-image07 {
     width: 100%;
@@ -935,35 +794,20 @@
   .kindle-image12 {
     width: 100%;
   }
-  .kindle-text37 {
-    width: 900px;
-    margin-left: 0px;
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
-  }
   .kindle-image13 {
     width: 100%;
   }
   .kindle-image14 {
     width: 100%;
   }
+  .kindle-text25 {
+    width: 900px;
+    margin-left: 0px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
   .kindle-image15 {
     width: 100%;
-  }
-  .kindle-text39 {
-    width: 900px;
-    margin-left: 0px;
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
-  }
-  .kindle-image16 {
-    width: 100%;
-  }
-  .kindle-text41 {
-    width: 900px;
-    margin-left: 0px;
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
   }
 }
 @media(max-width: 767px) {
@@ -981,31 +825,11 @@
     width: 700px;
     margin-left: 0px;
   }
-  .kindle-text20 {
+  .kindle-text14 {
     width: 700px;
     margin-left: 0px;
   }
-  .kindle-text21 {
-    width: 700px;
-    margin-left: 0px;
-  }
-  .kindle-text27 {
-    width: 700px;
-    margin-left: 0px;
-  }
-  .kindle-text31 {
-    width: 700px;
-    margin-left: 0px;
-  }
-  .kindle-text37 {
-    width: 700px;
-    margin-left: 0px;
-  }
-  .kindle-text39 {
-    width: 700px;
-    margin-left: 0px;
-  }
-  .kindle-text41 {
+  .kindle-text25 {
     width: 700px;
     margin-left: 0px;
   }
@@ -1045,7 +869,7 @@
     margin-left: 0px;
     text-decoration: none;
   }
-  .kindle-text20 {
+  .kindle-text14 {
     color: rgb(74, 74, 74);
     width: 355px;
     font-size: 16px;
@@ -1054,52 +878,7 @@
     margin-left: 0px;
     text-decoration: none;
   }
-  .kindle-text21 {
-    color: rgb(74, 74, 74);
-    width: 355px;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: normal;
-    margin-left: 0px;
-    text-decoration: none;
-  }
-  .kindle-text27 {
-    color: rgb(74, 74, 74);
-    width: 355px;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: normal;
-    margin-left: 0px;
-    text-decoration: none;
-  }
-  .kindle-text31 {
-    color: rgb(74, 74, 74);
-    width: 355px;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: normal;
-    margin-left: 0px;
-    text-decoration: none;
-  }
-  .kindle-text37 {
-    color: rgb(74, 74, 74);
-    width: 355px;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: normal;
-    margin-left: 0px;
-    text-decoration: none;
-  }
-  .kindle-text39 {
-    color: rgb(74, 74, 74);
-    width: 355px;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: normal;
-    margin-left: 0px;
-    text-decoration: none;
-  }
-  .kindle-text41 {
+  .kindle-text25 {
     color: rgb(74, 74, 74);
     width: 355px;
     font-size: 16px;
